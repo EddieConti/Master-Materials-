@@ -8,15 +8,15 @@ Skills and competences.
 
 The master’s degree covers basic and general competences for managing time, resources and projects, and for working in teams. In addition, it provides tools to face the challenges in the discipline with analytical, critical and creative capacity. The course will focus specifically on the following competences:
 
-* Capacity to understand the process of analysing data, and the role of data in decision-making. \\
-* Capacity to gather and extract information from structured and unstructured data sources. \\
-Capacity to clean and correct data, in order to create datasets that are easy to manipulate and informative.
--Capacity to use technologies for the storage, recovery and processing of large volumes of data.
--Capacity to learn how to propose hypothesis and develop intuition about a dataset using exploratory analysis techniques.
--Capacity to effectively use analytical and predictive tools for automatic learning.
--Capacity to understand, develop and modify analytical and exploratory algorithms for a dataset.
--Capacity to verify and quantify the validity of a hypothesis, using data analysis.
--Capacity to communicate results using appropriate communication and display techniques.
--Knowledge of legislation on data protection and privacy, and on the ethical code in professional practice.
--Capacity to use effective development methods for data science projects.
-\end{itemize}
+* Capacity to understand the process of analysing data, and the role of data in decision-making. 
+* Capacity to gather and extract information from structured and unstructured data sources. 
+* Capacity to clean and correct data, in order to create datasets that are easy to manipulate and informative.
+* Capacity to use technologies for the storage, recovery and processing of large volumes of data.
+* Capacity to learn how to propose hypothesis and develop intuition about a dataset using exploratory analysis techniques.
+* Capacity to effectively use analytical and predictive tools for automatic learning.
+* Capacity to understand, develop and modify analytical and exploratory algorithms for a dataset.
+* Capacity to verify and quantify the validity of a hypothesis, using data analysis.
+* Capacity to communicate results using appropriate communication and display techniques.
+* Knowledge of legislation on data protection and privacy, and on the ethical code in professional practice.
+* Capacity to use effective development methods for data science projects.
+
