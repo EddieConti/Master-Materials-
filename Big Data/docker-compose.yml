@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  python_app:
+    image: contieddie99/assignment1:v1.0
+    depends_on:
+      - mongodb
+    networks:
+      - backend
+  mongodb:
+    image: mongo:latest
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - backend
+    ports:
+      - "27017:27017"
+
+networks:
+  backend:
+volumes:
+  mongodb_data:
