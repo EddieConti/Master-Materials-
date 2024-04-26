@@ -18,7 +18,7 @@ headers = {
 weather_data=[]
 
 # Connection to MongoDB Atlas
-uri = "mongodb+srv://EddieConti:J.master888@cluster0.ydobulw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+uri = "mongodb+srv://EddieConti:<password>@cluster0.ydobulw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 client = pymongo.MongoClient(uri)
 
 # Set up the database and the collection
